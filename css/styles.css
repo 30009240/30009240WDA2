@@ -1,0 +1,27 @@
+/*!-- Custom CSS styles defined in a <style> tag or an external stylesheet */
+.custom-navbar {
+    background-color: #ff5733; /* Sets custom background color */
+    color: white; /* Sets text color */
+    border-bottom: 2px solid #000; /* Adds a bottom border */
+    padding: 10px; /* Adds padding around the navbar */
+    font-size: 18px; /* Sets font size */
+    font-weight: bold; /* Sets font weight */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+    transition: background-color 0.3s ease; /* Smooth transition effect */
+}
+
+.custom-navbar:hover {
+    background-color: #ff4512; /* Changes background color on hover */
+}
+
+.nav-link:hover{
+    color: chartreuse;
+}
+
+    /* Make the image fully responsive */
+    .carousel-inner img {
+        width: 100%
+    }
+.bg-forest {
+    background-color: #0b3d16; 
+}
